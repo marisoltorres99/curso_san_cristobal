@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\j99wi\\source\\repos\\CurrencyConversionAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|c:\\users\\j99wi\\source\\repos\\currencyconversionapi\\controllers\\convertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|solutionrelative:controllers\\convertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|c:\\users\\j99wi\\source\\repos\\currencyconversionapi\\resource\\quotecurrencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|solutionrelative:resource\\quotecurrencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|c:\\users\\j99wi\\source\\repos\\currencyconversionapi\\resource\\exampleapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|solutionrelative:resource\\exampleapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|c:\\users\\j99wi\\source\\repos\\currencyconversionapi\\resource\\requestcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|solutionrelative:resource\\requestcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|c:\\users\\j99wi\\source\\repos\\currencyconversionapi\\resource\\quotecurrencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|solutionrelative:resource\\quotecurrencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|c:\\users\\j99wi\\source\\repos\\currencyconversionapi\\controllers\\convertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68D3AC4-23B3-4C80-B6C2-F362A92A887D}|CurrencyConversionAPI.csproj|solutionrelative:controllers\\convertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ExampleAPI.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\CurrencyConversionAPI\\Resource\\ExampleAPI.cs",
               "RelativeDocumentMoniker": "Resource\\ExampleAPI.cs",
               "ToolTip": "C:\\Users\\j99wi\\source\\repos\\CurrencyConversionAPI\\Resource\\ExampleAPI.cs",
               "RelativeToolTip": "Resource\\ExampleAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T01:59:28.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "RequestCurrency.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\CurrencyConversionAPI\\Resource\\RequestCurrency.cs",
               "RelativeDocumentMoniker": "Resource\\RequestCurrency.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "QuoteCurrencyResponse.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\CurrencyConversionAPI\\Resource\\QuoteCurrencyResponse.cs",
               "RelativeDocumentMoniker": "Resource\\QuoteCurrencyResponse.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ConverterController.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\CurrencyConversionAPI\\Controllers\\ConverterController.cs",
               "RelativeDocumentMoniker": "Controllers\\ConverterController.cs",

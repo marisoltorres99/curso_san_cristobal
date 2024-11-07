@@ -31,3 +31,12 @@ C:\Users\j99wi\source\repos\CurrencyConversionAPI\obj\Debug\net8.0\refint\Curren
 C:\Users\j99wi\source\repos\CurrencyConversionAPI\obj\Debug\net8.0\CurrencyConversionAPI.pdb
 C:\Users\j99wi\source\repos\CurrencyConversionAPI\obj\Debug\net8.0\CurrencyConversionAPI.genruntimeconfig.cache
 C:\Users\j99wi\source\repos\CurrencyConversionAPI\obj\Debug\net8.0\ref\CurrencyConversionAPI.dll
+C:\Users\j99wi\source\repos\CurrencyConversionAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\j99wi\source\repos\CurrencyConversionAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\j99wi\source\repos\CurrencyConversionAPI\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\j99wi\source\repos\CurrencyConversionAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\j99wi\source\repos\CurrencyConversionAPI\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\j99wi\source\repos\CurrencyConversionAPI\bin\Debug\net8.0\Nancy.dll
+C:\Users\j99wi\source\repos\CurrencyConversionAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\j99wi\source\repos\CurrencyConversionAPI\bin\Debug\net8.0\System.Net.Http.Extensions.dll
+C:\Users\j99wi\source\repos\CurrencyConversionAPI\bin\Debug\net8.0\System.Net.Http.Primitives.dll
