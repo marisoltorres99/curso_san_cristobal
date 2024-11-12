@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|c:\\users\\j99wi\\source\\repos\\exampleapi\\controllers\\ejemplo2interfazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|solutionrelative:controllers\\ejemplo2interfazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|c:\\users\\j99wi\\source\\repos\\exampleapi\\ejemplodeinterfaz\\baseejemplointerfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|solutionrelative:ejemplodeinterfaz\\baseejemplointerfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|c:\\users\\j99wi\\source\\repos\\exampleapi\\controllers\\ejemplointerfazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|solutionrelative:controllers\\ejemplointerfazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|c:\\users\\j99wi\\source\\repos\\exampleapi\\ejemplodeinterfaz\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|solutionrelative:ejemplodeinterfaz\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|c:\\users\\j99wi\\source\\repos\\exampleapi\\ejemplodeinterfaz\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|solutionrelative:ejemplodeinterfaz\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|c:\\users\\j99wi\\source\\repos\\exampleapi\\ejemplodeinterfaz\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|solutionrelative:ejemplodeinterfaz\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejemplo2InterfazController.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Controllers\\Ejemplo2InterfazController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Ejemplo2InterfazController.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Controllers\\Ejemplo2InterfazController.cs",
+              "RelativeToolTip": "Controllers\\Ejemplo2InterfazController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:05:21.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEjemploInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\EjemploDeInterfaz\\BaseEjemploInterfaz.cs",
+              "RelativeDocumentMoniker": "EjemploDeInterfaz\\BaseEjemploInterfaz.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\EjemploDeInterfaz\\BaseEjemploInterfaz.cs",
+              "RelativeToolTip": "EjemploDeInterfaz\\BaseEjemploInterfaz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:24:10.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\EjemploDeInterfaz\\Perro.cs",
+              "RelativeDocumentMoniker": "EjemploDeInterfaz\\Perro.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\EjemploDeInterfaz\\Perro.cs",
+              "RelativeToolTip": "EjemploDeInterfaz\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:24:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\EjemploDeInterfaz\\Gato.cs",
+              "RelativeDocumentMoniker": "EjemploDeInterfaz\\Gato.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\EjemploDeInterfaz\\Gato.cs",
+              "RelativeToolTip": "EjemploDeInterfaz\\Gato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:24:11.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\EjemploDeInterfaz\\IAnimal.cs",
+              "RelativeDocumentMoniker": "EjemploDeInterfaz\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\EjemploDeInterfaz\\IAnimal.cs",
+              "RelativeToolTip": "EjemploDeInterfaz\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:24:12.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EjemploInterfazController.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Controllers\\EjemploInterfazController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EjemploInterfazController.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Controllers\\EjemploInterfazController.cs",
+              "RelativeToolTip": "Controllers\\EjemploInterfazController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:24:04.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
