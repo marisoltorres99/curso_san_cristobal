@@ -1,0 +1,29 @@
+/* mobile */
+@media (max-width: 667px){
+    .buscar {
+        background-color: yellow;
+        padding: 30px;
+        border-radius: 15px;
+    }
+
+    .buscar input{
+        border: 2px solid blueviolet;
+        background-color: aliceblue;
+        color: black;
+    }
+}
+
+/* desktop */ 
+@media (min-width: 769px) {
+    .buscar {
+        background-color: antiquewhite;
+        padding: 20px;
+        border-radius: 10px;
+    }
+  
+    .buscar input {
+        border: 2px solid greenyellow;
+        background-color: rebeccapurple;
+        color: aliceblue;
+    }
+}  
