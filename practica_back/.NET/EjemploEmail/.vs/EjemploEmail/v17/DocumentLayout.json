@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|c:\\users\\j99wi\\source\\repos\\ejemploemail\\repository\\northwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|solutionrelative:repository\\northwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|c:\\users\\j99wi\\source\\repos\\ejemploemail\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|solutionrelative:controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|c:\\users\\j99wi\\source\\repos\\ejemploemail\\repository\\inorthwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|solutionrelative:repository\\inorthwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|c:\\users\\j99wi\\source\\repos\\ejemploemail\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|solutionrelative:model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|c:\\users\\j99wi\\source\\repos\\ejemploemail\\model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|solutionrelative:model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|c:\\users\\j99wi\\source\\repos\\ejemploemail\\datacontext\\datacontextnorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|solutionrelative:datacontext\\datacontextnorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|c:\\users\\j99wi\\source\\repos\\ejemploemail\\model\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|solutionrelative:model\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|c:\\users\\j99wi\\source\\repos\\ejemploemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|c:\\users\\j99wi\\source\\repos\\ejemploemail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7408DF63-684F-4B40-9A0A-A8077725822E}|EjemploEmail.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Model\\Categories.cs",
+              "RelativeDocumentMoniker": "Model\\Categories.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Model\\Categories.cs",
+              "RelativeToolTip": "Model\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:18:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Model\\Products.cs",
+              "RelativeDocumentMoniker": "Model\\Products.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Model\\Products.cs",
+              "RelativeToolTip": "Model\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:16:40.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthwindController.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Controllers\\NorthwindController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NorthwindController.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Controllers\\NorthwindController.cs",
+              "RelativeToolTip": "Controllers\\NorthwindController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv10AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:57:54.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NorthwindRepository.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Repository\\NorthwindRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\NorthwindRepository.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Repository\\NorthwindRepository.cs",
+              "RelativeToolTip": "Repository\\NorthwindRepository.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAA0wGgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:26:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INorthwindRepository.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Repository\\INorthwindRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\INorthwindRepository.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Repository\\INorthwindRepository.cs",
+              "RelativeToolTip": "Repository\\INorthwindRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:26:07.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Model\\Employees.cs",
+              "RelativeDocumentMoniker": "Model\\Employees.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Model\\Employees.cs",
+              "RelativeToolTip": "Model\\Employees.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:26:06.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContextNorthwind.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\DataContext\\DataContextNorthwind.cs",
+              "RelativeDocumentMoniker": "DataContext\\DataContextNorthwind.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\DataContext\\DataContextNorthwind.cs",
+              "RelativeToolTip": "DataContext\\DataContextNorthwind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:26:03.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:47:11.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\EjemploEmail\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T22:22:29.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
