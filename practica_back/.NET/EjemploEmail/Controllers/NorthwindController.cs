@@ -3,6 +3,7 @@ using EjemploEmail.Model;
 using EjemploEmail.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel.DataAnnotations;
 
 namespace EjemploEmail.Controllers
 {
@@ -92,6 +93,27 @@ namespace EjemploEmail.Controllers
         public async Task<List<Products>> ObtenerProductosQueContienen(string palabra)
         {
             return await _repository.ObtenerProductosQueContienen(palabra);
+        }
+
+        [HttpDelete]
+        [Route("api/EliminarOrdenPorID")]
+        public async Task<bool> EliminarOrdenPorID([Required, FromQuery] int idOrden)
+        {
+            return await _repository.EliminarOrdenPorID(idOrden);
+        }
+
+        [HttpPut]
+        [Route("api/ModificarNombreEmpleado")]
+        public async Task<bool> ModificarNombreEmpleado([Required, FromQuery] int idEmpleado, [Required, FromQuery] string nombreEmpleado)
+        {
+            return await _repository.ModificarNombreEmpleado(idEmpleado, nombreEmpleado);
+        }
+
+        [HttpPut]
+        [Route("api/InsertarEmpleado")]
+        public async Task<bool> InsertarEmpleado()
+        {
+            return await _repository.InsertarEmpleado();
         }
     }
 }

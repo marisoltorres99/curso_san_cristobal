@@ -1,6 +1,8 @@
 ﻿using EjemploEmail.Model;
 using EjemploEmail.DataContext;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc;
+using Azure.Core;
 
 namespace EjemploEmail.Repository
 {
@@ -104,6 +106,51 @@ namespace EjemploEmail.Repository
         {
             var result = await _dataContext.Products.Where(p => p.ProductName.Contains(palabra)).ToListAsync();
             return result;
+        }
+
+        public async Task<bool> EliminarOrdenPorID(int idOrden)
+        {
+            Orders? orden = await _dataContext.Orders.Where(r => r.OrderID == idOrden).FirstOrDefaultAsync();
+            OrderDetails? ordenDetail = await _dataContext.OrderDetails.Where(r => r.OrderID == idOrden).FirstOrDefaultAsync();
+
+            _dataContext.OrderDetails.Remove(ordenDetail);
+            _dataContext.Orders.Remove(orden);
+
+            var result = _dataContext.SaveChangesAsync();
+            return true;
+
+        }
+
+        public async Task<bool> ModificarNombreEmpleado(int idEmpleado, string nombreEmpleado)
+        {
+            bool actualizado = false;
+            Employees result = await _dataContext.Employees.Where(r => r.EmployeeID == idEmpleado).FirstOrDefaultAsync();
+
+            if (result != null)
+            {
+                result.FirstName = nombreEmpleado;
+                // devuelve la cantidad de columnas afectadas
+                var resultado = _dataContext.SaveChangesAsync();
+                actualizado = true;
+            }
+
+            return actualizado;
+
+        }
+
+        public async Task<bool> InsertarEmpleado()
+        {
+            Employees emp = new Employees();
+            emp.Title = "sales manager";
+            emp.City = "Rosario";
+            emp.FirstName = "Marisol";
+            emp.LastName = "Torres";
+            emp.HireDate = DateTime.Now;
+            emp.BirthDate = DateTime.Now;
+            var newEmployee = await _dataContext.Employees.AddAsync(emp);
+            var result = await _dataContext.SaveChangesAsync();
+
+            return (result > 0);
         }
     }
 }
