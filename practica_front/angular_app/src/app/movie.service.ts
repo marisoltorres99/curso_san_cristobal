@@ -22,6 +22,6 @@ export class MovieService {
   constructor() { }
 
   getMovies() {
-    return this.movies;
+    return this.movies; 
   }
 }
