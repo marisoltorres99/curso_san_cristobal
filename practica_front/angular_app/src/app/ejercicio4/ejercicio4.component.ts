@@ -1,5 +1,6 @@
 import { NgFor } from '@angular/common';
 import { Component } from '@angular/core';
+import { ServicioService } from '../servicio.service';
 
 @Component({
   selector: 'app-ejercicio4',
@@ -8,5 +9,11 @@ import { Component } from '@angular/core';
   styleUrl: './ejercicio4.component.css'
 })
 export class Ejercicio4Component {
-  puestos = ["primero", "segundo", "tercero", "cuarto"]
+  
+  puestos: string[] = [];
+  constructor(private servicio: ServicioService){}
+
+  ngOnInit(): void {
+    this.puestos = this.servicio.getPuestos();
+  }
 }
