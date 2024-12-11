@@ -1,5 +1,5 @@
 import { NgFor } from '@angular/common';
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { ServicioService } from '../servicio.service';
 
 @Component({
@@ -8,7 +8,7 @@ import { ServicioService } from '../servicio.service';
   templateUrl: './ejercicio4.component.html',
   styleUrl: './ejercicio4.component.css'
 })
-export class Ejercicio4Component {
+export class Ejercicio4Component implements OnInit{
   
   puestos: string[] = [];
   constructor(private servicio: ServicioService){}

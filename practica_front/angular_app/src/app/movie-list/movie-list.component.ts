@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { MovieItemComponent } from "../movie-item/movie-item.component";
 import { NgFor } from '@angular/common';
 import { MovieService } from '../movie.service';
@@ -9,7 +9,7 @@ import { MovieService } from '../movie.service';
   templateUrl: './movie-list.component.html',
   styleUrl: './movie-list.component.css'
 })
-export class MovieListComponent {
+export class MovieListComponent implements OnInit{
   movies: any[] = [];
 
   constructor(private movieService: MovieService) {}
