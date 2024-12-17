@@ -7,7 +7,7 @@ import { Movie } from './models/movie.model';
 export class MovieService {
 
   private movies: Movie[] = [
-    { title: 'El viaje de Chihiro', description: 'Descripcion 1', year: 2001, image: 'https://pics.filmaffinity.com/El_viaje_de_Chihiro-405533198-large.jpg' },
+    { title: 'El viaje de Chihiro', description: 'Descripcion 1', year: 2001, image: 'images/el_viaje_de_chihiro.jpg' },
     { title: 'Relatos salvajes', description: 'Descripcion 2', year: 2014, image: 'https://pics.filmaffinity.com/Relatos_salvajes-102488639-large.jpg' },
     { title: 'El secreto de sus ojos', description: 'Descripcion 3', year: 2009, image: 'https://pics.filmaffinity.com/El_secreto_de_sus_ojos-483213496-large.jpg' },
     { title: 'Parasite', description: 'Descripcion 4', year: 2019, image: 'https://pics.filmaffinity.com/Paraasitos-406070218-large.jpg' },
