@@ -2,7 +2,7 @@ import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { Ejercicio8SearchbarComponent } from './ejercicio8-searchbar.component';
 
-describe('Ejercicio7SearchbarComponent', () => {
+describe('Ejercicio8SearchbarComponent', () => {
   let component: Ejercicio8SearchbarComponent;
   let fixture: ComponentFixture<Ejercicio8SearchbarComponent>;
 
