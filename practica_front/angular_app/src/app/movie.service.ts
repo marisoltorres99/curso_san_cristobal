@@ -7,16 +7,16 @@ import { Movie } from './models/movie.model';
 export class MovieService {
 
   private movies: Movie[] = [
-    { title: 'El viaje de Chihiro', description: 'Descripcion 1', year: 2001, image: 'images/el_viaje_de_chihiro.jpg' },
-    { title: 'Relatos salvajes', description: 'Descripcion 2', year: 2014, image: 'https://pics.filmaffinity.com/Relatos_salvajes-102488639-large.jpg' },
-    { title: 'El secreto de sus ojos', description: 'Descripcion 3', year: 2009, image: 'https://pics.filmaffinity.com/El_secreto_de_sus_ojos-483213496-large.jpg' },
-    { title: 'Parasite', description: 'Descripcion 4', year: 2019, image: 'https://pics.filmaffinity.com/Paraasitos-406070218-large.jpg' },
-    { title: 'Matrix', description: 'Descripcion 5', year: 1999, image: 'https://pics.filmaffinity.com/Matrix-155050517-large.jpg' },
-    { title: 'Titanic', description: 'Descripcion 6', year: 1997, image: 'https://pics.filmaffinity.com/Titanic-321994924-large.jpg' },
-    { title: 'Barbie', description: 'Descripcion 7', year: 2023, image: 'https://pics.filmaffinity.com/Barbie-295661697-mmed.jpg' },
-    { title: 'Oppenheimer', description: 'Descripcion 8', year: 2023, image: 'https://pics.filmaffinity.com/Oppenheimer-828933592-large.jpg' },
-    { title: 'Oldboy', description: 'Descripcion 9', year: 2003, image: 'https://pics.filmaffinity.com/Old_Boy-410950704-large.jpg' },
-    { title: 'Your Name', description: 'Descripcion 10', year: 2016, image: 'https://pics.filmaffinity.com/Your_Name-753183494-large.jpg' },
+    { title: 'El viaje de Chihiro', description: 'Una niña queda atrapada en un mundo mágico y debe salvar a sus padres transformados en cerdos.', year: 2001, image: 'images/el_viaje_de_chihiro.jpg' },
+    { title: 'Relatos salvajes', description: 'Seis historias cortas que exploran el lado más salvaje y vengativo del ser humano.', year: 2014, image: 'images/relatos_salvajes.jpg' },
+    { title: 'El secreto de sus ojos', description: 'Un investigador revive un caso sin resolver mientras enfrenta sus propios sentimientos.', year: 2009, image: 'images/el_secreto_de_sus_ojos.jpg' },
+    { title: 'Parasite', description: 'Una familia pobre se infiltra en la vida de una familia rica con consecuencias inesperadas.', year: 2019, image: 'images/parasite.jpg' },
+    { title: 'Matrix', description: 'Un programador descubre que la realidad es una simulación y lidera la lucha contra sus creadores.', year: 1999, image: 'images/matrix.jpg' },
+    { title: 'Titanic', description: 'Una historia de amor épica entre dos jóvenes a bordo del trágico viaje del Titanic.', year: 1997, image: 'images/titanic.jpg' },
+    { title: 'Barbie', description: 'Barbie explora el mundo real y cuestiona su propósito en un viaje de autodescubrimiento.', year: 2023, image: 'images/barbie.jpg' },
+    { title: 'Oppenheimer', description: 'La historia del físico J. Robert Oppenheimer y el desarrollo de la bomba atómica.', year: 2023, image: 'images/oppenheimer.jpg' },
+    { title: 'Oldboy', description: 'Un hombre busca venganza tras ser encarcelado misteriosamente durante 15 años.', year: 2003, image: 'images/oldboy.jpg' },
+    { title: 'Your Name', description: 'Dos jóvenes intercambian cuerpos y crean un vínculo profundo mientras enfrentan el destino.', year: 2016, image: 'images/your_name.jpg' },
   ];
 
   constructor() { }
