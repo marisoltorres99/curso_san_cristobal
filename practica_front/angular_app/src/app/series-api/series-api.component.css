@@ -1,0 +1,20 @@
+.series-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .series-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .series-container li {
+    border: 2px solid skyblue;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: white;
+    color: blueviolet;
+  }
+  

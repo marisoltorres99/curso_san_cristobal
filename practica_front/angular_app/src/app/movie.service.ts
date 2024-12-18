@@ -1,5 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Movie } from './models/movie.model';
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -19,9 +21,13 @@ export class MovieService {
     { title: 'Your Name', description: 'Dos jóvenes intercambian cuerpos y crean un vínculo profundo mientras enfrentan el destino.', year: 2016, image: 'images/your_name.jpg' },
   ];
 
-  constructor() { }
+  constructor(private  http:  HttpClient) {}
 
   getMovies() {
     return this.movies; 
   }
+
+  getEpisodes(): Observable<{Episodes: []}>{
+	return  this.http.get<{Episodes: []}>('https://www.omdbapi.com/?apikey=2ff6c6e4&t=From&Season=1')
+  } 
 }
